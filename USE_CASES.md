@@ -1,6 +1,6 @@
 ## 📌 Use Case: Upload PDF invoices and Extract data in Table format
 
-### **Primary Actor**: ### Authenticated User  
+**Primary Actor**: Authenticated User  
 **Goal**: Goal: Upload one or multiple PDF invoices from various vendors and extract structured information (e.g.,)
 **Main Flow**:
   1. User visits the upload interface of the web app
