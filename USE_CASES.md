@@ -1,9 +1,10 @@
 ## Prototype: AI Prompt
-   1. 10 invoices at a time are uploaded in the AI project thread.
-   2. The PDF invoice files are processed, then the AI extracts and returns organized data from the relevant fields (fields have been determined early on in the prompt).
-      - This data is manually enetered into our NFR tracker excel sheet.
-   4. The unreadable PDF files (scanned or picture format) are displayed after the organized data. These files are then manually processed by myself.
-   5. The duplicated files are also labled as duplicate, so that they don't get processed again. (including unreadable files).
+  1. 10 invoices at a time are uploaded in the AI project thread.
+  2. The PDF invoice files are processed, then the AI extracts and returns organized data from the relevant fields (fields have been determined early on in the prompt).
+  3. The unreadable PDF files (scanned or picture format) are displayed after the organized data. These files are then manually processed by myself.
+     - This data is manually enetered into our NFR tracker excel sheet.
+  4. The duplicated files are also labled as duplicate, so that they don't get processed again. (including unreadable files).
+
 
 
 ## For Potential Implementation:
