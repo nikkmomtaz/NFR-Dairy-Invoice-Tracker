@@ -6,8 +6,8 @@
 5. The duplicated files are also labled as duplicate, so that they don't get processed again. (including unreadable files).
 
 
-### For Future Implementation:
-## Use Case: Upload PDF invoices and Extract data in Table format
+## For Future Implementation:
+### Use Case: Upload PDF invoices and Extract data in Table format
 
 **Primary Actor**: Authenticated User  
 **Goal**: Upload one or multiple PDF invoices from various vendors and extract structured information (e.g.,)
