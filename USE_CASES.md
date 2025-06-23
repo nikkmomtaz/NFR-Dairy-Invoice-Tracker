@@ -16,8 +16,9 @@
 **Main Flow**:
   1. User visits the upload interface of the web app
   2. User uploads one or multiple invoice PDFs
-  3. System extracts relevant fields: Inoive Number, Date, Store Name, Vendor, Product/Dairy Type - QTY x Litres
+  3. System extracts relevant fields:
+     -  Inoive Number, Date, Store Name, Vendor, Product/Dairy Type - QTY x Litres
   
-  6. System displays or returns the structured data (JSON/table)
-  7. (Optional) User downloads or exports the data to Excel
+  4. System displays or returns the structured data (JSON/table)
+  5. (Optional) User downloads or exports the data to Excel
 
