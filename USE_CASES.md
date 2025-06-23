@@ -6,7 +6,7 @@
 5. The duplicated files are also labled as duplicate, so that they don't get processed again. (including unreadable files).
 
 
-For future implementation:
+### For Future Implementation:
 ## Use Case: Upload PDF invoices and Extract data in Table format
 
 **Primary Actor**: Authenticated User  
