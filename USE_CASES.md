@@ -1,4 +1,5 @@
 ## Prototype: AI Prompt
+#### Python script created by ChatGPT and running currently on ChatGPT
   1. Invoices are uploaded in the AI project thread 10 at a time. (AI limit)
   2. The PDF invoice files are processed, then the AI extracts and returns organized data from the relevant fields (fields have been determined early on in the prompt).
   3. The unreadable PDF files (scanned or picture format) are displayed after the organized data. These files are then manually processed by myself.
